@@ -113,6 +113,8 @@ You can use the command line solution:
 
 ```bash
 $ python topy/scripts/optimise.py <filename>.tpd
+
+$ python scripts/optimise.py your-file.tpd output-dir  (new command)
 ```
 
 Or you can use a Python script:
